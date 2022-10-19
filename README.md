@@ -1,6 +1,6 @@
 # Winter & SUmmer Debate
 
-TODO: Write a project description
+TODO: We are arguing that summer is better than winter
 
 ## Contributing
 
