@@ -1,4 +1,4 @@
-# Project Name
+# Winter & SUmmer Debate
 
 TODO: Write a project description
 
